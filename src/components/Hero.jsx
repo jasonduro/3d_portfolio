@@ -19,10 +19,9 @@ const Hero = () => {
 						Hi, I&apos;m <span className='text-[#915eff]'>Jason</span>
 					</h1>
 					<p className={`${styles.heroSubText} mt-2 text-white-100`}>
-						I&apos;m a Product Manager with Full-Stack dev skills,
-						<br className='sm:block hidden' /> UX/UI design experience
-						<br className='sm:block hidden' /> and an unsatiable appetite for
-						learning.
+						I&apos;m a Product Manager hyper-focused on crafting great experiences
+						<br className='sm:block hidden' /> through innovative technology and approaches
+						<br className='sm:block hidden' /> while having a great time doing it.
 					</p>
 				</div>
 			</div>
